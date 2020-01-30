@@ -1,0 +1,9 @@
+      <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand text-uppercase myName" href="https://github.com/piyushgargofficial">
+                Piyush Garg : <i class="fab fa-github"></i>
+            </a>
+        </nav>
+
+else{
+        document.querySelector(".error").style.display = "block"
+    }

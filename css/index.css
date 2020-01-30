@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myName {
+    font-weight: 600;
+    font-size: 1rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.myForm {
+    margin-top: 100px;
+}
+
+.userProfile {
+    margin: 40px 0;
+}
+
+.error {
+    display: none;
+}
